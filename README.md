@@ -6,4 +6,4 @@ Support version: ArangoDB-2.2.x
 # Required
 
 * [ArangoDB](https://github.com/triAGENS/ArangoDB) Version 2.2.x
-* Delphi XE later
+* Delphi XE Later
